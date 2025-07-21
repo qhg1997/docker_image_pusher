@@ -1,1 +1,1 @@
-roura/tengine:lua
+kcdns/tengine-lua:2.2.0-update
