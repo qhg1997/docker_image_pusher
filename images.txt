@@ -1,1 +1,1 @@
-redis/redisinsight:2.66
+ghcr.io/jordan-dalby/bytestash:latest
