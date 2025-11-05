@@ -1,1 +1,1 @@
-ghcr.io/jordan-dalby/bytestash:latest
+qingfeng2336/stream-vault
