@@ -1,2 +1,1 @@
-maven:3.9-eclipse-temurin-17-alpine
-eclipse-temurin:17-jre-alpine
+metacubex/mihomo:v1.19.29
