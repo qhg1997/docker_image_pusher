@@ -1,1 +1,1 @@
-lscr.io/linuxserver/telegram:latest
+linuxserver/telegram:latest
