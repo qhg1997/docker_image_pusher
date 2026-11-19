@@ -1,1 +1,1 @@
-invelop/wine-novnc:latest
+lscr.io/linuxserver/telegram:latest
