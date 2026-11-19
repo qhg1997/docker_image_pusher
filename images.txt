@@ -1,1 +1,1 @@
-metacubex/mihomo:v1.19.29
+invelop/wine-novnc
