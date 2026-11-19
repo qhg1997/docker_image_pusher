@@ -1,1 +1,1 @@
-invelop/wine-novnc
+invelop/wine-novnc:latest
